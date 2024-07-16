@@ -11,6 +11,7 @@
 #
 # openvswitch-devel, openvswitch-ipsec, libpcap, iproute etc
 # ovn-kube-util, hybrid-overlay-node.exe, ovndbchecker and ovnkube-trace
+# test
 
 FROM registry.ci.openshift.org/ocp/builder:rhel-9-golang-1.22-openshift-4.17 AS builder
 
