@@ -3,7 +3,6 @@
 # it provides an overlay network using ovs/ovn/ovn-kube
 #
 # The standard name for this image is ovn-kube
-# test
 
 # Build RHEL-9 binaries
 FROM registry.ci.openshift.org/ocp/builder:rhel-9-golang-1.22-openshift-4.17 AS builder
